@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DLOpenOnDesktopChromeFix", "DLOpenOnDesktopChromeFix\DLOpenOnDesktopChromeFix.vdproj", "{6FDEBE30-9D8F-4D4D-99EF-A5E7882E5F33}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DLProtocolHandlerChromePatch", "DLProtocolHandlerChromePatch\DLProtocolHandlerChromePatch.vdproj", "{6FDEBE30-9D8F-4D4D-99EF-A5E7882E5F33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
